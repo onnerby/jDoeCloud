@@ -1,0 +1,15 @@
+{
+	name: 'jdoecloud',
+	version: '1.0',
+	title: 'Center weighted tag clouds',
+	author: 'Daniel Önnerby',
+	licenses: [
+		{
+			type: 'BSD New',
+			url: 'http://www.opensource.org/licenses/BSD-3-Clause'
+		}
+	],
+	description: 'jDoeCloud a center weighted jQuery tag cloud plugin.',
+	demo: 'http://onnerby.se/~daniel/jDoeCloud/example.html',
+	homepage: 'http://blog.onnerby.se/p/jdoecloud.html'
+}
